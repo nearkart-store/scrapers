@@ -1,6 +1,6 @@
-# Flipkart Web Scraper
+# Web Scraper
 
-This project is a Python-based web scraper that uses **Selenium** and **BeautifulSoup** to scrape product information from the Flipkart website. The scraper mimics browser activity and can bypass JavaScript-rendered content, making it suitable for websites that use dynamic content loading.
+This project is a Python-based web scraper that uses **Selenium** and **BeautifulSoup** to scrape product information from the Ecommerce website. The scraper mimics browser activity and can bypass JavaScript-rendered content, making it suitable for websites that use dynamic content loading.
 
 ## Features
 
