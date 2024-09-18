@@ -2,7 +2,7 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 
-url = "https://flipkart.com"
+url = "https://www.indiamart.com"
 
 r = requests.get(url)
 print(r)
