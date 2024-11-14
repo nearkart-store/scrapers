@@ -3,67 +3,87 @@
     "laptops": [
       {
         "id": 1,
-        "name": "Dell XPS 13",
-        "brand": "Dell",
-        "price": 1200,
+        "name": "MacBook Air",
+        "brand": "Apple",
+        "price": 62990,
+        "image1_url": "https://m.media-amazon.com/images/I/71jG+e7roXL._SX466_.jpg",
+        "image2_url": "https://m.media-amazon.com/images/I/71z-1j187cL._SX466_.jpg",
+        "image3_url": "https://m.media-amazon.com/images/I/61uNK7su24L._SX466_.jpg",
+        
         "specifications": {
-          "processor": "Intel i7",
-          "ram": "16GB",
-          "storage": "512GB SSD",
-          "screen_size": "13.3 inches",
-          "operating_system": "Windows 10"
+          "cpu_model": "Core M Family",
+          "ram": "8GB",
+          "storage": "256GB",
+          "screen_size": "13 inches",
+          "operating_system": "macOS 10.14 Mojave",
+          "graphics_card": "integrated"
         }
+        
       },
       {
         "id": 2,
-        "name": "Apple MacBook Pro 13",
-        "brand": "Apple",
-        "price": 1500,
+        "name": "HP Laptop 255 G9 (2024)",
+        "brand": "HP",
+        "price": 23600,
+        "image1_url": "https://m.media-amazon.com/images/I/714KND42UKL._SX450_.jpg",
+        "image2_url": "https://m.media-amazon.com/images/I/51G4-CdtmXL._SX450_.jpg",
+        "image3_url": "https://m.media-amazon.com/images/I/41agzOkmgQL._SX450_.jpg",
+
         "specifications": {
-          "processor": "Apple M1",
+          "cpu_model": "Athlon Silver 3050U",
           "ram": "8GB",
-          "storage": "256GB SSD",
-          "screen_size": "13.3 inches",
-          "operating_system": "macOS"
+          "storage": "256GB",
+          "screen_size": "15.6 inches",
+          "operating_system": "Windows 11 Pro",
+          "graphics_card": "integrated"
         }
       },
       {
         "id": 3,
-        "name": "HP Spectre x360",
-        "brand": "HP",
-        "price": 1300,
+        "name": "Lenovo IdeaPad Slim 3",
+        "brand": "Lenovo",
+        "price": 53530,
+        "image1_url": "https://m.media-amazon.com/images/I/81mgUtc9iKL._SY450_.jpg",
+        "image2_url": "https://m.media-amazon.com/images/I/61hqaRHpl7L._SY450_.jpg",
+        "image3_url": "https://m.media-amazon.com/images/I/61zp01WwseL._SY450_.jpg",
         "specifications": {
-          "processor": "Intel i7",
+          "processor": "Intel Core i5-12450H",
           "ram": "16GB",
           "storage": "512GB SSD",
-          "screen_size": "13.3 inches",
-          "operating_system": "Windows 10"
+          "screen_size": "14 inches",
+          "operating_system": "Windows 11 Home"
         }
       },
       {
         "id": 4,
         "name": "Lenovo ThinkPad X1 Carbon",
         "brand": "Lenovo",
-        "price": 1700,
+        "price": 206990,
+        "image1_url": "https://m.media-amazon.com/images/I/516FnVhQ5EL._SY450_.jpg",
+        "image2_url": "https://m.media-amazon.com/images/I/51chJro48mL._SX450_.jpg",
+        "image3_url": "https://m.media-amazon.com/images/I/412-MaMaIGL._SX450_.jpg",
         "specifications": {
           "processor": "Intel i7",
           "ram": "16GB",
           "storage": "1TB SSD",
           "screen_size": "14 inches",
-          "operating_system": "Windows 10"
+          "operating_system": "Windows 11"
         }
       },
       {
         "id": 5,
         "name": "Asus ZenBook 14",
         "brand": "Asus",
-        "price": 1100,
+        "price": 102990,
+        "image1_url": "https://m.media-amazon.com/images/I/71jO2PwZ0XL._SY450_.jpg",
+        "image2_url": "https://m.media-amazon.com/images/I/71vIcgxFKxL._SY450_.jpg",
+        "image3_url": "https://m.media-amazon.com/images/I/71Id8IThUpL._SY450_.jpg",
         "specifications": {
           "processor": "Intel i5",
           "ram": "8GB",
           "storage": "512GB SSD",
           "screen_size": "14 inches",
-          "operating_system": "Windows 10"
+          "operating_system": "Windows 11 Home"
         }
       }
     ],
