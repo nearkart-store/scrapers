@@ -1,0 +1,190 @@
+{
+    "Accessories": [
+        {   "category": "Laptop",
+            "product": [
+                {
+                    "id": "001",
+                    "name": "Dell G15 Gaming Laptop",
+                    "specifications": {
+                        "processor": "AMD Ryzen™ 5 7640HS (22 MB total cache, 6 cores, up to 5.0 GHz Max Boost Clock)",
+                        "operating_system": "Windows 11 Home Single Language, English",
+                        "video_card": "NVIDIA® GeForce RTX™ 3050, 6 GB GDDR6",
+                        "display": "15.6'', FHD 1920x1080, 120Hz",
+                        "memory": "16GB DDR5, 2x8GB, 4800MT/s; up to 32GB (5600MT/s with AMD CPU)",
+                        "storage": "1 TB, M.2, PCIe NVMe, SSD",
+                        "imageURL": "https://m.media-amazon.com/images/I/61LOOMpEgxL._SX679_.jpg"
+                    }
+                },
+                {
+                    "id": "002",
+                    "name": "Lenovo ThinkPad E14 AMD Ryzen 7 7730U",
+                    "specifications": {
+                        "Processor": "AMD Ryzen™ 7 7735U Processor (2.70 GHz up to 4.75 GHz)",
+                        "Operating System": "Windows 11 Home Single Language 64",
+                        "Graphic Card": "Integrated AMD Radeon™ 680M",
+                        "Memory": "16 GB DDR5-4800MHz (SODIMM)",
+                        "Storage": "512 GB SSD M.2 2242 PCIe Gen4 TLC Opal",
+                        "Display": "35.56cms (14) WUXGA (1920 x 1200), IPS, Anti-Glare, Non-Touch, 45%NTSC, 300 nits, 60 Hz",
+                        "AC Adapter / Power Supply": "65W",
+                        "Keyboard": "Backlit, Black - English (US)",
+                        "Screen Resolution": "1920x1200",
+                        "imageURL": "https://p2-ofp.static.pub//fes/cms/2024/04/01/dr07ur4ocsbpn2l9pu8doajktf16ev299382.png"
+                    }
+                },
+                {
+                    "id": "003",
+                    "name": "Apple 2024 MacBook Air",
+                    "specifications": {
+                        "Brand": "Apple",
+                        "Model Name": "MacBook Air",
+                        "Screen Size": "13.6 Inches",
+                        "ColourSpace": "Gray",
+                        "CPU Model": "Apple M3",
+                        "RAM Memory Installed Size": "16 GB",
+                        "Operating System": "Mac OS",
+                        "Graphics Card Description": "Integrated",
+                        "CPU Speed": "0.01 GHz",
+                        "Hard Disk Description": "SSD",
+                        "imageURL": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mba15-spacegray-config-202306?wid=840&hei=508&fmt=jpeg&qlt=90&.v=168434099137"
+                    }
+                },
+                {
+                    "id": "004",
+                    "name": "ASUS Vivobook 16 ' FHD",
+                    "specifications": {
+                        "Brand": "ASUS",
+                        "Model Name": "ASUS Vivobook 16",
+                        "Screen Size": "16 Inches",
+                        "Colour": "Silver",
+                        "Hard Disk Size": "512 GB",
+                        "CPU Model": "Core i5-12500H",
+                        "RAM Memory Installed Size": "16 GB",
+                        "Operating System": "Windows 11 Home",
+                        "Special Feature": "Fingerprint Reader, Lightweight, Backlit Keyboard",
+                        "Graphics Card Description": "Integrated",
+                        "imageURL": "https://dlcdnwebimgs.asus.com/gain/5c7ce323-a8b8-4ce6-834e-fc377b7d71cb/"
+                    }
+                }
+            ]
+        },
+        {
+            "category": "Mobile",
+            "product": [
+                {
+                    "id": "101",
+                    "name": "realme GT 7 Pro",
+                    "specifications": {
+                        "Brand": "realme",
+                        "Operating System": "Android 15",
+                        "Memory Storage Capacity": "256 GB",
+                        "Screen Size": "17.22 Centimetres",
+                        "Model Name": "GT 7 Pro",
+                        "imageURL": "https://image01.realme.net/general/20241112/17313948173174aaed907bb0a41258452468fb829cc4c.png.webp?width=1080&height=1080&size=799895"
+                    }
+                },
+                {
+                    "id": "102",
+                    "name": "Samsung Galaxy S23 Ultra 5G AI Smartphone",
+                    "specifications": {
+                        "Brand": "Samsung",
+                        "Operating System": "Android",
+                        "RAM Memory Installed Size": "12 GB",
+                        "CPU Model": "Snapdragon",
+                        "CPU Speed": "2.99 GHz",
+                        "imageURL": "https://images.samsung.com/is/image/samsung/p6pim/in/2302/gallery/in-galaxy-s23-s918-sm-s918bzgcins-thumb-534863401?$216_216_PNG$"
+                    }
+                },
+                {
+                    "id": "103",
+                    "name": "Nothing Phone (2a) Plus",
+                    "specifications":{
+                        "Brand":"Nothing",
+                        "Operating System":"Android 14",
+                        "RAM Memory Installed Size":"8 GB",
+                       " CPU Speed":"3 GHz",
+                        "Memory Storage Capacity":"256 GB",
+                        "imageURL":"https://in.nothing.tech/cdn/shop/files/nothing-phone-2a-plus-black_aa6d2749-6075-4807-b9f7-a625be263b6d_750x.png?v=1722422210"
+                    }
+                },
+                {
+                    "id": "104",
+                    "name": "OnePlus 13R",
+                    "specifications":{
+                       " Brand":"OnePlus",
+                        "Operating System":"Android 15",
+                        "RAM Memory Installed Size":"12 GB",
+                        "Memory Storage Capacity":"256 GB",
+                        "Screen Size":"6.78 Inches",
+                        "imageURL":"https://m.media-amazon.com/images/I/61++T836jiL.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "category": "Home Decor",
+            "product":[
+                {
+                    "id": "201",
+                    "name":"Larah by Borosil Blue Eve Silk Series Opalware Dinner Set",
+                    "specifications":{
+                        "Colour":"Blue",
+                        "Brand":"Larah by BOROSIL",
+                        "Pattern":"Floral",
+                        "Collection Name":"All",
+                        "Item Weight":"7.45 Kilograms",
+                        "Item Number":"35",
+                        "imageURL":"https://myborosil.com/cdn/shop/products/my-borosil-dinner-sets-15-pc-set-serves-4-blue-eve-dinner-set-29906956419210.jpg?v=1678428976"
+                    }
+                },
+                {
+                    "id": "202",
+                    "name":"Candes Gas Stove 2 Burners with Premium Gas Saver Tornado Burners",
+                    "specifications":{
+                        "Brand":"Candes",
+                        "Fuel Type":"Liquefied Petroleum Gas",
+                        "Material":"Glass",
+                        "Product Dimensions":"54L x 30W x 12H Centimeters",
+                        "Power Source":"Gas Powered",
+                        "Item Weight":"4800 Grams",
+                        "imageURL":"https://shop.globalbees.com/cdn/shop/products/711GcNwfuqL.jpg?v=1698403055"
+                    }
+                   
+                },
+                {
+                    "id": "203",
+                    "name":"CPENSUS Ceramic Marble Finish Coffee Mug With Lid & Spoon",
+                    "specifications":{
+                        "Brand":"CPENSUS",
+                        "Colour":"Multicolor",
+                        "Special Feature":"Microwave Safe",
+                        "Style":"Classic",
+                        "Theme":"Wedding",
+                        "Recommeded Uses For Product":"Home",
+                        "Included Components":"Lid, spoon",
+                        "Shape":"Round",
+                        "Pattern":"Marble",
+                        "Product Care Instructions":"Hand Wash Only",
+                        "imageURL":"https://images.price.tools/images/cpensus-coffee-mug-lid-spoon-400ml-s-4NRqJFz74.jpg"
+                    }
+                },
+                {
+                    "id": "204",
+                    "name":"Butterfly Curve 3 Litres Pressure Cooker",
+                    "specifications":{
+                       " Brand":"Butterfly",
+                        "Capacity":"3 litres",
+                        "Material":"Stainless steel",
+                        "Colour":"Silver",
+                        "Finish Type":"Glossy",
+                        "Product Dimensions":"21D x 35W x 17H Centimeters",
+                        "Special Feature":"Induction and Gas Compatible",
+                        "Wattage":"500 Watts",
+                        "Item Weight":"990 Grams",
+                        "Control Method":"Touch",
+                        "imageURL":"https://img-prd-pim.poorvika.com/cdn-cgi/image/width=1600,height=1600,quality=75/product/vbutterfly-stainless-steel-curve-pressure-cooker-3-litre-front-view.png"
+                    }
+                }
+            ]
+        }
+    ]
+}
